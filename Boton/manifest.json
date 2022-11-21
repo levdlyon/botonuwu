@@ -1,0 +1,19 @@
+{
+"short_name":"soyunboton",
+"name":"soyunbotontroll",
+"start_url": "/index,html",
+"display": "fullscreen"
+"icons": [
+   {
+    "src": /assets/logouwu.jpg",
+    "sizes": "400x400"
+    "type": "image/jpg"
+
+   },
+   {
+    "src": "/assets/crunchyroll.png",
+    "sizes" "500x500",
+    "type": "image/png"
+   }
+ ]
+}
